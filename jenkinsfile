@@ -1,2 +1,2 @@
-@Library('jenkins-shared-library') _
+@Library('jenkinsshared-library') _
 welcomeApp 'https://github.com/ETECH-Co/welcomeApp'
