@@ -1,2 +1,2 @@
 @library('etech-co-shared-library') _
-welcome.groovy
+welcome, 'https://github.com/ETECH-Co/welcomeApp'
